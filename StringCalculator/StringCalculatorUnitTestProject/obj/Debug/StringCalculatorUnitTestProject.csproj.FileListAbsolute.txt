@@ -1,0 +1,14 @@
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\StringCalculatorUnitTestProject.dll
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\StringCalculatorUnitTestProject.pdb
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\StringCalculator.exe
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\StringCalculator.pdb
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\obj\Debug\StringCalculatorUnitTestProject.csprojResolveAssemblyReference.cache
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\obj\Debug\StringCalculatorUnitTestProject.dll
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\obj\Debug\StringCalculatorUnitTestProject.pdb
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\CodeSamples\StringCalculator\StringCalculatorUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
